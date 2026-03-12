@@ -10,7 +10,7 @@
 
 * 🎓 2nd Year **Computer Science Engineering Student**
 * 💻 Interested in **Artificial Intelligence, Web Development & Software Development**
-* 📚 Currently learning **Data Structures & Algorithms**
+* 📚 Currently learning **Web Development & Data Structures & Algorithms**
 * 🚀 Exploring **AI tools and modern technologies**
 * 🧠 Love solving real-world problems using code
 * ☕ Fun fact: **Coffee + Coding = Productivity**
