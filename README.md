@@ -9,14 +9,11 @@
 ## 👨‍💻 About Me
 
 * 🎓 2nd Year **Computer Science Engineering Student**
-* 💻 Interested in **Artificial Intelligence, Web Development & Software Development**
+* 💻 Interested in **Web Development , Artificial Intelligence & Software Development**
 * 📚 Currently learning **Web Development & Data Structures & Algorithms**
 * 🚀 Exploring **AI tools and modern technologies**
 * 🧠 Love solving real-world problems using code
-* ☕ Fun fact: **Coffee + Coding = Productivity**
-
 ---
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
