@@ -1,91 +1,119 @@
-<h1 align="center">Hi 👋, I'm Pratik Agrawal</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;AI+%7C+Web+Development+Enthusiast;Learning+DSA+and+Building+Projects;Always+Exploring+New+Technologies+🚀">
+# Pratik Agrawal
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=5E81AC&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Java+Developer;Full+Stack+Developer;Building+Meaningful+Software" />
+
+<p>
+Software Engineer in Progress • Full Stack Developer • Problem Solver
 </p>
 
+</div>
+
 ---
 
-## 👨‍💻 About Me
+## About
 
-* 🎓 2nd Year **Computer Science Engineering Student**
-* 💻 Interested in **Web Development , Artificial Intelligence & Software Development**
-* 📚 Currently learning **Web Development & Data Structures & Algorithms**
-* 🚀 Exploring **AI tools and modern technologies**
-* 🧠 Love solving real-world problems using code
+I'm a Computer Science student passionate about designing clean, scalable software and building products that solve real-world problems.
+
+Currently focused on strengthening my foundation in:
+
+- Java
+- Data Structures & Algorithms
+- Full Stack Development
+- Backend Engineering
+
+I enjoy turning ideas into polished applications while continuously improving my engineering skills.
+
 ---
-## 🛠 Tech Stack
 
-### Programming Languages
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+### Languages
 
-### Web Development
+`Java` • `JavaScript` • `Python` • `SQL`
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge\&logo=django)
+### Frontend
 
-### Tools & Platforms
+`HTML` • `CSS` • `JavaScript`
 
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge\&logo=eclipse)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+### Backend
+
+`Node.js` • `Express.js` • `Django`
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+`MySQL` • `SQLite`
+
+### Tools
+
+`Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-🛒 **E-commerce Website**
-Frontend web application with **product listing, filtering, and cart functionality**.
+### Portfolio Website
+
+Modern responsive portfolio showcasing projects and experience.
+
+### Blog Application
+
+Full-stack Django blogging platform with authentication and CRUD operations.
+
+### Tic Tac Toe
+
+Interactive game supporting multiplayer and AI mode.
+
+### Stopwatch
+
+Responsive stopwatch with lap timer.
+
+### To-Do App
+
+Minimal productivity application using Local Storage.
+
+### StudentHub *(Currently Building)*
+
+A professional full-stack platform integrating multiple internship tasks into one scalable application.
 
 ---
 
-## 📈 GitHub Stats
+## Currently Working On
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=agrawal-pratik&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-pratik&layout=compact&theme=tokyonight"/>
-</p>
+- Solving DSA problems every day
+- Building full-stack projects
+- Learning backend architecture
+- Preparing for Software Engineering internships and placements
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=agrawal-pratik&theme=tokyonight"/>
-</p>
-
----
-
-## 🤝 Connect with Me
+## Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pratik-agrawal-7512b2334">
-<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"/>
+<a href="https://github.com/agrawal-pratik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/agrawalpratikk">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:agrawalpratik706@gmail.com">
-<img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/agrawal-pratik">
-<img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50"/>
+<a href="https://agrawal-pratik.github.io/SCT_WD_1/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-⭐️ From **Pratik Agrawal**
+<div align="center">
+
+*"Always learning. Always building."*
+
+</div>
